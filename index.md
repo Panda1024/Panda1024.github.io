@@ -1,12 +1,17 @@
-## Welcome to GitHub Pages
+# 方力 ###华中科技大学
 
-You can use the [editor on GitHub](https://github.com/Panda1024/MasterResearch/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+###个人技能及成绩
+#### **\bullet英语技能：CET4（548）、CET6（499） 
+\bullet综合成绩排名：11/271（4.1%，本科）
+\bullet编程语言：C/C＋＋、C#
+**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 主要获奖
+\bullet第十三届全国大学生“恩智浦”杯智能汽车竞赛\t华南赛区一等奖
+\bullet武汉理工大学第十七届创新杯大赛\t机械控制类三等奖
+\bullet2018-2019学年度武汉理工大学\t北汽奖学金三等奖
+\bullet2016-2017学年度武汉理工大学\t国家励志奖学金
+\bullet武汉理工大学\t优秀毕业生
 
 ```markdown
 Syntax highlighted code block
